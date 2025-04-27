@@ -1,4 +1,4 @@
-# Hola això es un repositori per estudiar per al examen d'en Joan Pardo
+# Hola això es un repositori per estudiar per l' examen d'en Joan Pardo
 
 ## Exemple de subititol de nivell 2
 
