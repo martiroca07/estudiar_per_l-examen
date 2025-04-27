@@ -5,13 +5,14 @@
 ### Exemple de subtitol de nivell 3
 
 |Soc una taula| Segueixo sent una taula|
-|secador| caca|
+|----------|---------------------------|
+|secador   |caca                       |
 
 mama soc **negreta**
 
 mamam soc *cursiva* 
 
-mama estic top de ~~ratllat~~  
+mama estic tope de ~~ratllat~~  
 
 - formo part de la llista de punts
 - jo també :D
