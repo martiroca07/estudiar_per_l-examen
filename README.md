@@ -7,7 +7,7 @@
 |Soc una taula| Segueixo sent una taula|
 |----------|---------------------------|
 |secador   |caca                       |
-
+|Micrones  |Colonia                    |
 mama soc **negreta**
 
 mamam soc *cursiva* 
