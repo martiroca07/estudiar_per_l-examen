@@ -36,4 +36,4 @@ print("Hola món")
 
 # Imatge d'en Jordi
 
-![Imatge](Jordi Deulofeu.png)
+![Imatge](JordiDeulofeu.png)
